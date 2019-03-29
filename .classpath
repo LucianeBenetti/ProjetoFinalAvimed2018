@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/3_Semestre/DD/Projeto_Final/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/mysql-connector-java-5.1.32-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/jasperreports-5.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/jasperreports-fonts-light.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/2_Semestre/SGBD/Exercicio/Relatorios/JavaJasper/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/3_Semestre/DD/Projeto_Final/poi-4.0.0/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/3_Semestre/DD/Projeto_Final/poi-4.0.0/poi-examples-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/3_Semestre/DD/Projeto_Final/poi-4.0.0/poi-excelant-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/3_Semestre/DD/Projeto_Final/poi-4.0.0/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/3_Semestre/DD/Projeto_Final/poi-4.0.0/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/80130917/Desktop/Graduação/3_Semestre/DD/Projeto_Final/poi-4.0.0/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
